@@ -14,11 +14,11 @@ I'm an **Underdrad Student🎓 @ The Bangalore Institute of Technology** majorin
 
 ### A Few Quick Facts
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 📦 Full Stack Development
-- 📝 I write technical blogs and articles
-- 🧩  I enjoy solving Sudokus and Rubik's cubes
--  Fun-Fact: I love reading novels 📙 and playing the guitar 🎸
+  - Machine Learning & Data Science
+  - Full Stack Development
+- I write technical blogs and articles
+- I enjoy solving Sudokus and Rubik's cubes
+- Fun-Fact: I love reading novels and playing the guitar 🎸
 <br/>
 
 ###  Some Tools and Tech I use
