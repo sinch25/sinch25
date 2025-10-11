@@ -4,10 +4,9 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Sinchana-N25)]((https://github.com/Sinchana-N25)) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinchana-n-8b3416323/)](https://www.linkedin.com/in/sinchana-n-8b3416323/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinchana2505@gmail.com)](mailto:sinchana2505@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/sinch25/)](https://leetcode.com/u/sinch25/)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student🎓 @ The Bangalore Institute of Technology** majoring in Information Science. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech. I'm interested in web development and love solving problems on coding platforms. <br/><br/>
+I'm an **Underdrad Student🎓 @ The Bangalore Institute of Technology** majoring in Information Science. I'm interested in web development and love solving problems on coding platforms. <br/><br/>
 
 <a href="https://octodex.github.com/NUXtocat/">
   <img align="right" src="https://raw.githubusercontent.com/Sinchana-N25/Sinchana-N25/main/coder.gif" width="300" />
