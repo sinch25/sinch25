@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinchana2505@gmail.com)](mailto:sinchana2505@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Underdrad Student🎓 @ The Bangalore Institute of Technology** majoring in Computer Science. I'm interested in web development and love solving problems on coding platforms. <br/><br/>
+I'm an **Undergrad Student🎓 @ The Bangalore Institute of Technology** majoring in Computer Science. I'm interested in web development and love solving problems on coding platforms. <br/><br/>
 
 <a href="https://octodex.github.com/NUXtocat/">
   <img align="right" src="https://raw.githubusercontent.com/Sinchana-N25/Sinchana-N25/main/coder.gif" width="300" />
